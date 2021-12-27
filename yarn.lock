@@ -670,10 +670,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-hexo-butterfly-envelope@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.nlark.com/hexo-butterfly-envelope/download/hexo-butterfly-envelope-1.0.7.tgz#51f258a50fe9fa77eba9fcafc550d2959a3c2508"
-  integrity sha1-UfJYpQ/p+nfrqfyvxVDSlZo8JQg=
+hexo-butterfly-envelope@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/hexo-butterfly-envelope/-/hexo-butterfly-envelope-1.0.9.tgz#045bfc99436305fbad98ec8182346ff6618470cf"
+  integrity sha512-LZv1KQwJeBsMMggNV0IecA29RfC3NAKVZdQS2WY5Xr1yXfpnFThXtBtqrUKpP++XvJbXZ1ex7tXMERUBjW5/Qw==
   dependencies:
     pug "^3.0.0"
 
